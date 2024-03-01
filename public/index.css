@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+table,td,tr,th{
+    border: 3px solid white
+}
+th,td{
+    padding: 1rem;
+}
+button{
+    margin: 0 0.6rem;
+}
+
+label{
+    font-size: 1.3rem;
+}
+input{
+    padding: .3rem;
+    font-size: 1.2rem;
+}
